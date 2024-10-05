@@ -20,6 +20,9 @@
 - Instagram: https://instagram.com/renancostaalencar
 - LinkedIn: https://linkedin.com/in/renancostaalencar
 
+---
+- Site: https://www.esuda.edu.br/
+- Blog: https://https://medium.com/@renan-costaalencar
 <!---
 mr-costaalencar/mr-costaalencar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
