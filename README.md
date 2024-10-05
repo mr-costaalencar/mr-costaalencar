@@ -15,6 +15,11 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato engraçado: Eu falo inglês, espanhol, francês e coreano.
 
+---
+- Linktree: https://linktr.ee/renan.costaalencar
+- Instagram: https://instagram.com/renancostaalencar
+- LinkedIn: https://linkedin.com/in/renancostaalencar
+
 <!---
 mr-costaalencar/mr-costaalencar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
